@@ -10,7 +10,7 @@ We will explore potential use cases for AI with in the Cyber security space, rig
 
 If you have knowledge in either of the domains (AI / Cybersecurity) and keen to contribute, drop a note to info@reducton.com
 
-Initially we will be explore the following use cases
+Initially we will  explore the following use cases
 
 * Risk based Authentication
 
